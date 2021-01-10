@@ -1,2 +1,2 @@
-# contributions
+# Contributions
 Public contributions
